@@ -3,12 +3,14 @@ label {
     font: 1rem 'Fira Sans', sans-serif;
 }
 
-input,
+input
 label {
     margin: .4rem 0;
+    
+
+border-radius: 25% 10%;
 }
-
- .knop  {
-
-border-radius: 30px;
-    }
+input{
+	width: 250px;
+	border-radius: 10px;
+}
